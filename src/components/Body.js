@@ -17,7 +17,7 @@ const Body = () => {
     if (BmiCalculator() < 18.5) {
         color = "orange";
     } else if (BmiCalculator() < 24.9) {
-        color = "lime";
+        color = "limegreen";
     } else {
         color = "red"
     }
