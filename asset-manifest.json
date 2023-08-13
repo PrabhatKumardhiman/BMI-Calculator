@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.2783f018.css",
-    "main.js": "/my-app/static/js/main.b5e5b6a8.js",
-    "index.html": "/my-app/index.html",
-    "main.2783f018.css.map": "/my-app/static/css/main.2783f018.css.map",
-    "main.b5e5b6a8.js.map": "/my-app/static/js/main.b5e5b6a8.js.map"
+    "main.css": "/BMI-Calculator/static/css/main.2783f018.css",
+    "main.js": "/BMI-Calculator/static/js/main.65293054.js",
+    "index.html": "/BMI-Calculator/index.html",
+    "main.2783f018.css.map": "/BMI-Calculator/static/css/main.2783f018.css.map",
+    "main.65293054.js.map": "/BMI-Calculator/static/js/main.65293054.js.map"
   },
   "entrypoints": [
     "static/css/main.2783f018.css",
-    "static/js/main.b5e5b6a8.js"
+    "static/js/main.65293054.js"
   ]
 }
